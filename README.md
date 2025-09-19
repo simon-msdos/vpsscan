@@ -1,2 +1,2 @@
 # vpsscan
-simple vps to scan linux servers
+simple script to scan linux servers
